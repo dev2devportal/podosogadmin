@@ -317,7 +317,7 @@ For issues and questions:
 # FUTURE NEW README FOR OPEN SOURCE VERSION (COMING SOON!)
 # PoDoSoGoAdmin - Multi-Server Mail Management Platform
 
-## Professional Open Source Mail Server Administration Suite
+## Open Source Mail Server Administration Suite
 
 **Version:** 2025.09.25
 **License:** AGPL-3.0
